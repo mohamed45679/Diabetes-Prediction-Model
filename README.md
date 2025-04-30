@@ -1,3 +1,6 @@
-The project utilizes a dataset containing health information of individuals, including attributes such as age, BMI (Body Mass Index)
-, blood pressure, glucose levels, family history of diabetes,
-and other relevant features. The dataset is labeled, with each instance labeled as either "diabetic" or "non-diabetic"
+#Diabetes-Prediction-Model
+
+This project aims to build a machine learning model to predict the likelihood of individuals being diabetic based on health data.  
+The dataset includes features like age, BMI, blood pressure, glucose levels, and family history of diabetes.
+
+---
